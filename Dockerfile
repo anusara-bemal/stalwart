@@ -1,5 +1,4 @@
-# Stalwart Dockerfile - Fixed for Debian Trixie
-# Credits: https://github.com/33KK + Updated by ChatGPT
+#zz
 
 FROM --platform=$BUILDPLATFORM docker.io/lukemathwalker/cargo-chef:latest-rust-slim-trixie AS chef
 WORKDIR /build
